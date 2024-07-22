@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Demo_project\Project1\main.cpp(30,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Demo_project\Project1\main.cpp(74,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Demo_project\Project1\main.cpp(74,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Demo_project\Project1\main.cpp(121,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Demo_project\Project1\main.cpp(121,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Demo_project\Project1\main.cpp(131,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Demo_project\Project1\main.cpp(131,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project1.vcxproj -> D:\Demo_project\Project1\x64\Debug\Project1.exe
