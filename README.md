@@ -14,4 +14,5 @@ A: Двигаться влево
 S: Двигаться вниз
 D: Двигаться вправо
 
-![image](https://github.com/user-attachments/assets/600139ce-3cbc-43e6-838c-93a8d493395a)
+![bandicam 2024-07-23 02-57-27-962 (online-video-cutter com)](https://github.com/user-attachments/assets/faacd4b7-e7d0-406a-b70b-158c18f75c33)
+
